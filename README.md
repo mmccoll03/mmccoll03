@@ -27,7 +27,8 @@ Economics and Data Science Student with a passion for time series data and predi
 - **Specialties:** LLMs, Predictive modeling,
 
 ### Education 🎓
-
+- **University of Notre Dame Class of 2025**
+- **Economics, German, Data Science**
 
 ### Certifications 📜
 - **IRB Certified**
