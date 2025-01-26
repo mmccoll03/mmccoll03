@@ -16,19 +16,21 @@ Economics and Data Science Student with a passion for time series data and predi
 - **Data Science Intern** - Lucy Civic Innovation lab (2024 - Present)
 - **SaNDwich Lab Intern** - Notre Dame (2024 - Present)
 - **Research Assistant** - Department of Political Science (2022)
+- **Economics honors thesis** - local projections to estimate IRFs of yield curve in response to monetary shocks
 
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **Languages:** Python, R, ArcGIS, Stata
+- **Frameworks & Libraries:** PyTorch, Pandas, Vector Databases, Pygame
+- **Tools:** Git
+- **Specialties:** LLMs, Predictive modeling,
 
 ### Education 🎓
 
 
 ### Certifications 📜
+- **IRB Certified**
 
 
 🔗 
