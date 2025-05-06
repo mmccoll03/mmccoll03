@@ -8,6 +8,7 @@
 👨‍💻 **GitHub:** [mmccoll03](https://github.com/mmccoll03)
 
 ---
+## Check out my Data Science Repository [here](https://github.com/mmccoll03/MCCOLLUM-Data-Science-Portfolio)
 
 ### About Me 🌐
 Economics and Data Science Student with a passion for time series data and predictive modelling
